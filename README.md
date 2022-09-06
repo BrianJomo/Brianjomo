@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks**
 
-- 👨‍💻 Access all of my public projects at [https://github.com/BrianJomo](https://github.com/BrianJomo)
+- 👨‍💻 Access all of my public repositories at [https://github.com/BrianJomo](https://github.com/BrianJomo)
 
 - 📫 Get in touch with me **Brianofficial39@gmail.com**
 
